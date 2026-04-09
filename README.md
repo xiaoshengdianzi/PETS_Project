@@ -20,7 +20,7 @@ PETS is a model-based reinforcement learning algorithm that uses probabilistic e
 ## Installation
 ```bash
 git clone https://github.com/xiaoshengdianzi/PETS_Project.git
-cd PETS_Project
+cd PETS_Project  # Enter the cloned directory
 pip install -r requirements.txt
 ```
 
