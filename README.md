@@ -6,6 +6,9 @@ PETS is a model-based reinforcement learning algorithm that uses probabilistic e
 ### Result Demonstration
 ![Result](result.png)
 
+### Network Architecture
+![Network Architecture](image.png)
+
 ## Environment Requirements
 - Python 3.9+
 - numpy>=1.21.0
