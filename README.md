@@ -3,6 +3,9 @@
 ## Project Overview
 PETS is a model-based reinforcement learning algorithm that uses probabilistic ensemble models to predict environment dynamics and optimize policies through trajectory sampling. This project implements the core functionality of the PETS algorithm, suitable for continuous control tasks.
 
+### Result Demonstration
+![Result](result.png)
+
 ## Environment Requirements
 - Python 3.9+
 - numpy>=1.21.0
