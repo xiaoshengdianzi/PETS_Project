@@ -84,3 +84,6 @@ This project uses the MIT License.
 - Respond to issues and PRs
 - Manage project milestones
 - Plan future features
+
+## Blog
+- [4、模型预测（MPC）PETS复现demo](https://blog.csdn.net/m0_66676819/article/details/159986752?sharetype=blogdetail&sharerId=159986752&sharerefer=PC&sharesource=m0_66676819&spm=1011.2480.3001.8118)
